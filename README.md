@@ -28,7 +28,7 @@ Insight are generated on the <a href="Vacation_Search/Vacation_Search.ipynb">Vac
 
 This is a sample of what the map will look like: 
 
-<img src="Vacation_Search/WeatherPy_vacation_map.png" width="700">
+<img src="Vacation_Search/WeatherPy_vacation_map.png" width="800">
 
 ### Create a Travel Itinerary Map
 
@@ -38,4 +38,4 @@ Insight are generated on the <a href="Vacation_Itinerary/Vacation_Itinerary.ipyn
 
 This is a sample of what the map will look like: 
 
-<img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="700">
+<img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="800">
