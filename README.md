@@ -28,7 +28,7 @@ Insight are generated on the <a href="Vacation_Search/Vacation_Search.ipynb">Vac
 
 This is a sample of what the map will look like: 
 
-<img src="Vacation_Search/WeatherPy_vacation_map.png" width="700">
+<img src="Vacation_Search/WeatherPy_vacation_map.png" width="800">
 
 ### Create a Travel Itinerary Map
 
@@ -36,6 +36,10 @@ This database is utilizing the Google Directions API to create a travel itinerar
 
 Insight are generated on the <a href="Vacation_Itinerary/Vacation_Itinerary.ipynb">Vacation Itinerary Database</a>.
 
-This is a sample of what the map will look like: 
+This is a sample of the route: 
 
-<img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="700">
+<img src="Vacation_Itinerary/WeatherPy_travel_map.png" width="800">
+
+This is a sample of the map showcasing the pop-up markers:
+
+<img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="800">
